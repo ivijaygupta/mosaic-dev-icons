@@ -1,0 +1,14 @@
+License
+This project is licensed under the MIT License.
+
+Icons
+All icons in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise specified. This means you are free to use, adapt, and distribute the icons, even for commercial purposes, as long as you provide appropriate credit to the original creator(s) and indicate if changes were made. You can find the full license text here 👉 https://creativecommons.org/licenses/by/4.0/.ere.
+
+Code
+Non-icon and non-font files in this repository are licensed under the MIT License. You can read the full license text here 👉 https://opensource.org/license/MIT.
+
+Commercial Use
+Commercial use of these icons may require a separate license. Please contact us at uxchoice@gmail.com for licensing options.
+
+Attribution
+Attribution is required by the MIT and CC BY licenses. Please retain any attribution comments when using these files.
